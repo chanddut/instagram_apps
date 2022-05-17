@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../Widgets/profile_picture.dart';
 import '../Widgets/info_item.dart';
 
+//profile page
 class ProfilePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
