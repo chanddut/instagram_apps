@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// info of the user
 class InfoItem extends StatelessWidget {
   InfoItem(this.title, this.value);
 
